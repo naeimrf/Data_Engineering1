@@ -1,0 +1,1 @@
+Hi Naeim, it is good that you somehow found a working solution to access the notebook from the browser. However, a more general and simpler way is: 1. start the notebook with argument --ip=* (which means listening to requests from all client IP address); 2. then access the notebook from the browser with <floating ip of VM>:8888
